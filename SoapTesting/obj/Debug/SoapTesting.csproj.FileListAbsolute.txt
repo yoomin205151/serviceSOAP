@@ -1,0 +1,14 @@
+D:\proyectos\SOAP\SoapTesting\bin\Debug\SoapTesting.exe.config
+D:\proyectos\SOAP\SoapTesting\bin\Debug\SoapTesting.exe
+D:\proyectos\SOAP\SoapTesting\bin\Debug\SoapTesting.pdb
+D:\proyectos\SOAP\SoapTesting\obj\Debug\SoapTesting.csproj.AssemblyReference.cache
+D:\proyectos\SOAP\SoapTesting\obj\Debug\SoapTesting.Form1.resources
+D:\proyectos\SOAP\SoapTesting\obj\Debug\SoapTesting.Properties.Resources.resources
+D:\proyectos\SOAP\SoapTesting\obj\Debug\SoapTesting.csproj.GenerateResource.cache
+D:\proyectos\SOAP\SoapTesting\obj\Debug\SoapTesting.csproj.CoreCompileInputs.cache
+D:\proyectos\SOAP\SoapTesting\obj\Debug\SoapTesting.exe
+D:\proyectos\SOAP\SoapTesting\obj\Debug\SoapTesting.pdb
+D:\proyectos\SOAP\SoapTesting\bin\Debug\SOAP.dll
+D:\proyectos\SOAP\SoapTesting\bin\Debug\SOAP.pdb
+D:\proyectos\SOAP\SoapTesting\bin\Debug\SOAP.dll.config
+D:\proyectos\SOAP\SoapTesting\obj\Debug\SoapTesting.csproj.CopyComplete

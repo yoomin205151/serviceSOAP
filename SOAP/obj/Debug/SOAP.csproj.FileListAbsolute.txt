@@ -1,0 +1,7 @@
+D:\proyectos\SOAP\SOAP\bin\SOAP.dll.config
+D:\proyectos\SOAP\SOAP\bin\SOAP.dll
+D:\proyectos\SOAP\SOAP\bin\SOAP.pdb
+D:\proyectos\SOAP\SOAP\obj\Debug\SOAP.csproj.AssemblyReference.cache
+D:\proyectos\SOAP\SOAP\obj\Debug\SOAP.csproj.CoreCompileInputs.cache
+D:\proyectos\SOAP\SOAP\obj\Debug\SOAP.dll
+D:\proyectos\SOAP\SOAP\obj\Debug\SOAP.pdb
